@@ -76,4 +76,4 @@ The system uses the `winston` library to log events. Logs are stored in a file n
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. - faris -
